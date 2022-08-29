@@ -3,5 +3,5 @@ Reads all the strings in the input, checks what is the hash value (https://www.a
 # Example
 for input : Before a E f                                                                                                                                                       
 the output is :
-B
+B                                                                                                                                                                        
 f
