@@ -10,6 +10,8 @@ Find and return the maximum profit you can achieve.
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 # reverseString
 Write a function that reverses a string. The input string is given as an array of characters s.
+# reverseInt
+
 # Divisible-by-3-and-is-also-an-even-numberr
 Reads all the strings in the input, checks what is the hash value (https://www.asciitable.com/) of the first character in each of the strings , and if it is divisible by 3 and is also an even number, prints it (the character) on a separate line to the screen
 for example, input : Before a E f                                                                                                                                                       
