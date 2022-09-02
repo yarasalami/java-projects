@@ -12,6 +12,7 @@ Given an array, rotate the array to the right by k steps, where k is non-negativ
 Write a function that reverses a string. The input string is given as an array of characters s.
 # reverseInt
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^(31), 2^(31-1)], then return 0.
+# deleteNode
 # Divisible-by-3-and-is-also-an-even-numberr
 Reads all the strings in the input, checks what is the hash value (https://www.asciitable.com/) of the first character in each of the strings , and if it is divisible by 3 and is also an even number, prints it (the character) on a separate line to the screen
 for example, input : Before a E f                                                                                                                                                       
