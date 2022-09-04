@@ -16,6 +16,8 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 There is a singly-linked list head and we want to delete a node node in it.
 You are given the node to be deleted node. You will not be given access to the first node of head.
 All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.
+#removeNthFromEnd
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
 # Divisible-by-3-and-is-also-an-even-numberr
 Reads all the strings in the input, checks what is the hash value (https://www.asciitable.com/) of the first character in each of the strings , and if it is divisible by 3 and is also an even number, prints it (the character) on a separate line to the screen
 for example, input : Before a E f                                                                                                                                                       
