@@ -20,3 +20,5 @@ All the values of the linked list are unique, and it is guaranteed that the give
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 # maxDepth
 Given the root of a binary tree, return its maximum depth.
+# isValidBST
+Given the root of a binary tree, determine if it is a valid binary search tree (BST).
