@@ -16,5 +16,7 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 There is a singly-linked list head and we want to delete a node node in it.
 You are given the node to be deleted node. You will not be given access to the first node of head.
 All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.
-#removeNthFromEnd
+# removeNthFromEnd
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
+# maxDepth
+Given the root of a binary tree, return its maximum depth.
